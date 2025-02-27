@@ -78,9 +78,4 @@ Suneelsuni/SmartTrip Assistant
 ├── app.py                    # Main Streamlit application
 ├── banner.png                # Banner image for UI
 ```
-## 👨‍💻 Developed By
-**Suneel Gangapuram**
-
-📧 Email: [suneelgangapuram3@gmail.com](mailto:suneelgangapuram3@gmail.com)  
-👉 GitHub: [Suneelsuni](https://github.com/Suneelsuni)  
-👉 LinkedIn: [Gangapuram Suneel](https://www.linkedin.com/in/gangapuram-suneel/)  
+## 👨‍💻 Developed By **Suneel Gangapuram**
