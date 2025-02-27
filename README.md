@@ -77,5 +77,6 @@ Suneelsuni/SmartTrip Assistant
 ├── README.md                 # Project documentation
 ├── app.py                    # Main Streamlit application
 ├── banner.png                # Banner image for UI
+├── requirements.txt
 ```
 ## 👨‍💻 Developed By **Suneel Gangapuram**
