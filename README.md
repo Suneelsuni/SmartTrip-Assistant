@@ -69,7 +69,15 @@ streamlit run app.py
 This project is open-source and licensed under the MIT License.
 
 ---
+📂 Repository Structure
 
+Suneelsuni/SmartTrip Assistant
+│── .gitignore              # Ignore unnecessary files
+│── LICENSE                 # License information
+│── README.md               # Project documentation
+│── app.py                  # Main Streamlit application
+│── banner.png              # UI banner image
+---
 ## 👨‍💻 Developed By
 **Suneel Gangapuram**
 
